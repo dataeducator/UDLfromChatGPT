@@ -8,3 +8,4 @@ Universal Design for Learning is a popular methodology for ensuring students are
 Recently, I began testing, and tuning prompts to leverage ChatGPT as a pseudo-coding partner to improve my Python programming knowledge. After building prompts to identify and build a reproducible protocol for wrangling data in python, I decided to attempt to craft a UDL Lesson for an introduction to Python programming leveraging the output from ChatGPT.
 
 |Lesson Objective(s):| Students will be able to load, clean, and analyze data from a csv file in Python|
+|:-------------------|:--------------------------------------------------------------------------------|
