@@ -7,12 +7,12 @@ The National Center for Learning Disabilities reports that 1 in 5 people in the 
 Universal Design for Learning is a popular methodology for ensuring students are given multiple pathways across a standards-aligned lesson. 
 Recently, I began testing, and tuning prompts to leverage ChatGPT as a pseudo-coding partner to improve my Python programming knowledge. After building prompts to identify and build a reproducible protocol for wrangling data in python, I decided to attempt to craft a UDL Lesson for an introduction to Python programming leveraging the output from ChatGPT.
 
-|Lesson Objective(s):| Students will be able to load, clean, and analyze data from a csv file in Python|
+|Lesson Objective(s):| The purpose of this course is to provide a comprehensive overview of basic data types and variables in Python and equip participants with the skills to write clean, PEP8 compliant, and DRY code.                             |
 |:-------------------|:--------------------------------------------------------------------------------|
 |Assessment(s):      | Students will be able to load, clean, and analyze data from a csv file in Python|
 |State Standard(s):  | Students will be able to load, clean, and analyze data from a csv file in Python|
 
-##Introduction:
+## Introduction:
 
 The first step in learning Python for data science is getting familiar with basic data types and variables. 
 
