@@ -11,3 +11,9 @@ Recently, I began testing, and tuning prompts to leverage ChatGPT as a pseudo-co
 |:-------------------|:--------------------------------------------------------------------------------|
 |Assessment(s):      | Students will be able to load, clean, and analyze data from a csv file in Python|
 |State Standard(s):  | Students will be able to load, clean, and analyze data from a csv file in Python|
+
+##Introduction:
+
+The first step in learning Python for data science is getting familiar with basic data types and variables. 
+
+- Start by launching a Jupyter Notebook and creating a new cell.
