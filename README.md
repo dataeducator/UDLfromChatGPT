@@ -9,7 +9,7 @@ Recently, I began testing, and tuning prompts to leverage ChatGPT as a pseudo-co
 
 |Lesson Objective(s):| The purpose of this course is to provide a comprehensive overview of basic data types and variables in Python and equip participants with the skills to write clean, PEP8 compliant, and DRY code.                             |
 |:-------------------|:--------------------------------------------------------------------------------|
-|Assessment(s):      | Students will be able to load, clean, and analyze data from a csv file in Python|
+|Assessment(s):      | Jupyter Notebook with embedded Challenge Questions                              |
 |State Standard(s):  | Students will be able to load, clean, and analyze data from a csv file in Python|
 
 ## Introduction:
