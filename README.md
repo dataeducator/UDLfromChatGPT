@@ -9,3 +9,5 @@ Recently, I began testing, and tuning prompts to leverage ChatGPT as a pseudo-co
 
 |Lesson Objective(s):| Students will be able to load, clean, and analyze data from a csv file in Python|
 |:-------------------|:--------------------------------------------------------------------------------|
+|Assessment(s):      | Students will be able to load, clean, and analyze data from a csv file in Python|
+|State Standard(s):  | Students will be able to load, clean, and analyze data from a csv file in Python|
